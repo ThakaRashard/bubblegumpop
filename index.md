@@ -1242,6 +1242,10 @@ max-width: 80%;
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<hr>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wu Tang Collection - Shaolin vs Lama <a href="https://t.co/xbvZgn1xnf">https://t.co/xbvZgn1xnf</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a> <br>#KUNGFU_MOVIE_MONDAY#<a href="https://twitter.com/hashtag/BUBBLEGUMPOP?src=hash&amp;ref_src=twsrc%5Etfw">#BUBBLEGUMPOP</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1584621235220406272?ref_src=twsrc%5Etfw">October 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<hr>
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu, CheckOut this video about REVENGE_PORN</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE YOU_AiNT_DiD_SHiT💑</h1>
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
