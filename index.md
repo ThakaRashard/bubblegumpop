@@ -1243,6 +1243,10 @@ max-width: 80%;
 4 # UNiVERSE##############################################
 ```
 <hr>
+
+# ALL_I_SEE
+is her and me,  it doesnt matter if she loves dee_dick_in_moment.Ifsheis sobbing and vomiting the next
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wu Tang Collection - Shaolin vs Lama <a href="https://t.co/xbvZgn1xnf">https://t.co/xbvZgn1xnf</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a> <br>#KUNGFU_MOVIE_MONDAY#<a href="https://twitter.com/hashtag/BUBBLEGUMPOP?src=hash&amp;ref_src=twsrc%5Etfw">#BUBBLEGUMPOP</a></p>&mdash; ThakaSartu KellySelassie (@thakasartu) <a href="https://twitter.com/thakasartu/status/1584621235220406272?ref_src=twsrc%5Etfw">October 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr>
