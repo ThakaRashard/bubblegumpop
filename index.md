@@ -1,3 +1,141 @@
+
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+  
+</video>
+
+## Differences with @Shopify / [liquid @nasa-jpl @la-county-isd](https://shopify.dev/docs/api/liquid)
+raed [liquidjs.com/tutorials/differences.html](https://liquidjs.com/tutorials/differences.html)
+`Liquid language is originally implemented in Ruby and used by Shopify and Jekyll (and thus GitHub Pages)`
+
+@la-county-isd i am storing old pages in this [@jekyll](https://jekyllrb.com/docs/posts/) 4 [loop](https://shopify.github.io/liquid/tags/iteration/) @blackgirlscode @nasa-pds @nasa-giss @salesforce @nasa-jpl @chicago @cityofsantamonica
+it pulls all the post with the [category](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html) `FP` as a small archive with a [wordcloud](https://nanx.me/blog/post/research-word-cloud/) style presentation @foxnews @washingtonpost @newshour @howard-university-web-services @foratlanta @disney
+[https://liquidjs.com/tutorials/intro-to-liquid.html](https://liquidjs.com/tutorials/intro-to-liquid.html)
+
+{% raw %}
+
+  {% for post in site.posts %}
+     {% if post.categories contains 'FP' %}  
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+     {% endif %}
+     
+  {% endfor %}
+  
+{% endraw %}
+
+<div class="box">
+
+
+   
+ </div> 
+
+<div class="box">
+
+  {% for post in site.posts %}
+     {% if post.categories contains 'FP' %}  
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+     {% endif %}
+     
+  {% endfor %}
+   
+ </div> 
+
+![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
+Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
+`https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB`
+
+<pre>
+@HollyJMitchell@bos.lacounty.gov @dsnnow@jpl.nasa.gov i submitted this to @The White House via the 
+contact form https://www.whitehouse.gov/contact/ 
+@Shristi Rijal on behalf of Cloudflare's DPO i got the normal message back upon 
+submission but y you a middle man . . . @normani@fifthharmonyofficial.com 
+tell Latrice That Happened https://trello.com/b/CN1UytXe/housekeeping , 
+they stole ppl twitter accounts @jplnewsroom@jpl.nasa.gov
+@jsc-hunch-mail.nasa@nasahunch.info @ksc-newsroom@mail.nasa.gov @Gordon, 
+Seth W (JPL-5145)[JPL Employee] @Gallagher, Dori (JPL-5143)[JPL Employee] 
+        
+*** LBPADC2.lbpa.local can't find d: Non-existent domain
+>
+C:\Users\pac>nslookup -type=mx whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2400641863
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\pac>
+pursuit of excellence and unrelenting success.  We will not forget our country, we will not forget our Constitution, and we will not forget our God.”
+
+President Donald J. Trump – January 20, 2025
+Thank you for sharing your thoughts with President Donald J. Trump.
+
+
+
+press@obama.org https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01819/ids/edr/browse/fcam/FRF_1819_0828428468_799ECM_N0873896FHAZ00206_01_295J01_1200.jpg // https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04852/opgs/edr/ncam/NRB_828219632EDR_F1211656CCAM01852M_.JPG CURiOSiTY https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=9&mission=msl + PeRSEVEREANCE https://mars.nasa.gov/mars2020/multimedia/raw-images/ ~ https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/ ~ https://keishalancebottoms.com/ ~ https://solarsystem.nasa.gov/cassini-raw-images/ + https://eyes.nasa.gov/apps/solar-system/#/home #ECOSTRESS https://ecostress.jpl.nasa.gov/ Rashard Kelly
+Profile Home
+ 
+Edit Profile
+ 
+Change Password
+ 
+Applications
+ 
+EULAs
+ 
+My Groups
+ 
+Generate Token https://www.jpl.nasa.gov/virtual-tour/
+   
+Profile Information
+Name: Rashard I Kelly https://ra5hard.github.io/artemis2
+Username: rashardkelly https://rashardmro.tumblr.com/post/812414676969373696/obamawhitehouse-nasajunocam
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-02-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+https://mail.google.com/mail/u/0/#search/in%3Asent+helpdesk/FMfcgzQbfLWxhvXwkVngLnzCDGhpTHQd
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman
+
+</pre>
+
+![https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif](https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif)
+
+[doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/](https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/)
+
+
 <script type="text/javascript">
    /*
     * MediaPlayer
