@@ -15,8 +15,24 @@
   
 </video>
 
+@la-county-isd @usnavy @nasa-jpl @whitehouse @cityoflosangeles 
+
+<img alt="image" src="https://github.com/user-attachments/assets/2cf30d35-635b-42af-80e7-a6ad5db74c40" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f8e2f3f6-5f66-4f20-908a-11341c68aaa6" />
+
 
 # Preparing for splashdown
+
+<img alt="image" src="https://github.com/user-attachments/assets/93c3a099-d562-475c-b104-a40da3693d65" />
+
+[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/#fullscreen-player](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/#fullscreen-player)
+<img alt="image" src="https://github.com/user-attachments/assets/ff70a496-b430-452b-b0b8-9c19a34d0b6d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/31c469e6-0ced-4785-a4a2-09b09d105ed0" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_veRvxj-5VQ?si=VZfrsqud10grvFaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
 [https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/) [When does Artemis II reenter Earth's atmosphere? What time is Artemis 2 splashdown? - `_Florida_` @usatoday @nasa-jpl @blackgirlscode](https://www.floridatoday.com/story/tech/science/space/2026/04/10/artemis-orion-splashdown-visibility-map-nasa-graphic-california-what-time/89543929007/)
 ![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png)
