@@ -15,6 +15,9 @@
   
 </video>
 
+![@nasa-jpl @nasa-pds @stateofcalifornia @blackgirlscode @la-ounty-isd @caltech @newshour](https://github.com/user-attachments/assets/a6a06d66-d8a1-4fd9-857e-24e6e31b302b)
+
+
 @la-county-isd @usnavy @nasa-jpl @whitehouse @cityoflosangeles 
 
 <img alt="image" src="https://github.com/user-attachments/assets/2cf30d35-635b-42af-80e7-a6ad5db74c40" />
